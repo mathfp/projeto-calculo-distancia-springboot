@@ -5,7 +5,7 @@ Projeto realizado no 1° Semestre de 2022, para estudo do framework java Springb
 
 # Ideia do Projeto
 
-Utilizando um formulário para input de dados, com campos das cidades de origem e destino, distância entre elas e a velocidade média do veículo que está realizando a viagem 
+Utilizando um formulário para input de dados, com campos das cidades de origem e destino, distância entre elas e a velocidade média do veículo que está realizando a viagem, como resultado, calcula-se a duração da viagem em formato horas e minutos.
 
 ## Exemplo:
 
